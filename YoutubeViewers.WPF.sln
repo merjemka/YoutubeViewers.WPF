@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeViewers.WPF", "YoutubeViewers.WPF.csproj", "{CB39E9D9-633D-4B59-970A-A270B45556AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB39E9D9-633D-4B59-970A-A270B45556AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB39E9D9-633D-4B59-970A-A270B45556AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB39E9D9-633D-4B59-970A-A270B45556AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB39E9D9-633D-4B59-970A-A270B45556AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA3D361F-B3E6-45BC-B331-B38730A75C88}
+	EndGlobalSection
+EndGlobal
